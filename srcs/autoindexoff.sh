@@ -1,0 +1,1 @@
+mv /var/www/html/index.nginx-debian.html /var/www/localhost
